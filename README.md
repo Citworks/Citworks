@@ -19,7 +19,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="50" height="50"/>
 </div>
-
----
-## 📫 **Connect with Me**  
-💌 **Email:** `dewald.home48@gmail.com`
