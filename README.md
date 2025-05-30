@@ -1,5 +1,7 @@
 # Hi 👋, I'm Dewald  
-### **Systems Developer | Backend Specialist**  
+### **Backend Developer | Systems Specialist**  
+💡 Experienced with backend technologies and database management  
+🛠 Some front-end experience, but my focus is backend development  
 
 🚀 **Skilled in:** Java & MySQL  
 💡 **Learning:** HTML, PHP, JavaScript, CSS & Python  
