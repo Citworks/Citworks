@@ -10,15 +10,28 @@
 📫 **Reach me at:** `dewald.home48@gmail.com`  
 
 ---
-
 ## 🚀 Featured Projects  
 ### 🐾 Happy Paws - Pet Adoption Website  
-A website for pet adoption and care, built with HTML, CSS, and JavaScript.  
 
-📌 **Live Demo:** [View Happy Paws in action!](https://citworks.github.io/Citworks/)  
-[![View Live Project](https://img.shields.io/badge/Live%20Demo-Happy%20Paws-blue?logo=github)](https://citworks.github.io/Citworks/)  
+Hey there! **I built this website from scratch** to showcase pet adoption and care. Feel free to explore it live!  
 
----
+📌 **Check it out here:**  
+<div align="center" style="background-color:#f8f9fa; padding: 12px; border-radius: 8px;">
+  <p style="font-size: 26px; font-weight: bold; margin: 0;">
+    🚀 **Explore The Happy Paws Website Live!**
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://citworks.github.io/Citworks/">
+    <img src="https://img.shields.io/badge/Visit-Happy%20Paws-blue?style=for-the-badge&logo=github" alt="Visit Happy Paws" />
+  </a>
+</div>
+
+
+
+ 
+
 
 ## 🛠️ **Languages & Tools**  
 <div align="center">
