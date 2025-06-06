@@ -18,7 +18,7 @@ Hey there! **I built this website from scratch** to showcase pet adoption and ca
 📌 **Check it out here:**  
 <div align="center" style="background-color:#f8f9fa; padding: 12px; border-radius: 8px;">
   <p style="font-size: 26px; font-weight: bold; margin: 0;">
-    🚀 **Explore The Happy Paws Website Live!**
+    🚀 **Explore The Happy Paws Website!**
   </p>
 </div>
 
