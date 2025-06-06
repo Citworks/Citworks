@@ -33,6 +33,3 @@ A website for pet adoption and care, built with HTML, CSS, and JavaScript.
 </div>  
 
 ---
-
-## 📊 GitHub Stats  
-![Dewald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
