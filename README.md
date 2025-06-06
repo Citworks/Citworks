@@ -15,9 +15,9 @@
 ## 🚀 Featured Projects  
 ### Happy Paws 🐾  
 A website for pet adoption and care, built with HTML, CSS, and JavaScript.  
-
+[
 [![View on GitHub](https://img.shields.io/badge/GitHub-Happy%20Paws-blue?logo=github)](https://github.com/Citworks/Citworks)
-
+](https://citworks.github.io/Citworks/)
 ---
 
 ## 🛠️ **Languages & Tools**  
